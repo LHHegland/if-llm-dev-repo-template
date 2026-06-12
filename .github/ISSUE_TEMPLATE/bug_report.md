@@ -13,15 +13,19 @@ A clear and concise description of what the bug is.
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+2. Enter prompt '....'
+3. Receive response
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
+
+**IF-LLM Model (please complete the following information):**
+ - Model: [e.g. ChatGPT, Claude]
+ - Release [e.g. 4.6]
+ - Access Method [e.g. web, desktop, mobile, API]
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
